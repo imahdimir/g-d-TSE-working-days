@@ -1,2 +1,6 @@
-pandas~=1.4.4
-githubdata~=8.0
+# Python 3.10.5
+# Mac OS 12.5
+# Apple M1
+
+githubdata~=8.2
+mirutil~=4.5
